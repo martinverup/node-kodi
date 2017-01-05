@@ -12,7 +12,7 @@
     "movies",
     "tv"
   ],
-  "version": "0.0.1-alpha",
+  "version": "0.0.2-alpha",
   "main": "lib/kodi-rpc.js",
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
   },
   "readme": "node-kodi\r\n================\r\nNode interface for Kodi using JSON-RPC",
   "readmeFilename": "README.md",
-  "_id": "node-kodi@0.0.1-alpha",
+  "_id": "node-kodi@0.0.2-alpha",
   "_from": "node-kodi@"
 }
