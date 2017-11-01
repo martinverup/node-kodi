@@ -1,3 +1,5 @@
+Please note, this project isn't being updated anymore - you are welcome to fork it and continue development
+
 node-kodi
 ================
 Node interface for Kodi using [JSON-RPC](http://kodi.wiki/?title=JSON-RPC_API).
